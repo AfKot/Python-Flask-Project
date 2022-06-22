@@ -4,7 +4,7 @@ from application.models import ToDo
 db.drop_all()
 db.create_all()
 sample_todo = ToDo(
-    task_name = "Test ToDo",
+    task_name = "Test Movie",
     completed = False
 )
 db.session.add(sample_todo)
