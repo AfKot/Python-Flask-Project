@@ -4,3 +4,4 @@
 !*.py
 !requirements.txt
 !*.html
+!starterScript.sh
